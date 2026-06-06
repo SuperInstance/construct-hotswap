@@ -1,0 +1,7 @@
+[package]
+name = "construct-hotswap"
+version = "0.1.0"
+edition = "2021"
+description = "Experiment: live construct hotswap with CRDT state sync. Tests loading GPU capabilities from git, deploying to persistent kernels, and hotswapping without stopping execution."
+license = "Apache-2.0"
+repository = "https://github.com/SuperInstance/construct-hotswap"
